@@ -219,7 +219,7 @@ PHG4CylinderCellContainer_Dict.lo: PHG4CylinderCellContainer_Dict.cc \
  /usr/include/c++/4.8.2/bits/forward_list.tcc \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TDataMember.h \
  PHG4CylinderCellContainer.h PHG4CylinderCellDefs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h \
  /usr/include/c++/4.8.2/iostream
 
@@ -779,7 +779,7 @@ PHG4CylinderCellContainer.h:
 
 PHG4CylinderCellDefs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h:
 

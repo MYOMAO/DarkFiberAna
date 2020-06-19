@@ -2,7 +2,7 @@ PHG4CylinderGeom_Spacalv3.lo: PHG4CylinderGeom_Spacalv3.cc \
  /usr/include/stdc-predef.h PHG4CylinderGeom_Spacalv3.h \
  PHG4CylinderGeom_Spacalv2.h PHG4CylinderGeom_Spacalv1.h \
  PHG4CylinderGeomv2.h PHG4CylinderGeomv1.h PHG4CylinderGeom.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/RConfigure.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/Rtypes.h \
@@ -126,7 +126,7 @@ PHG4CylinderGeom_Spacalv3.lo: PHG4CylinderGeom_Spacalv3.cc \
  /usr/include/c++/4.8.2/bits/basic_ios.tcc \
  /usr/include/c++/4.8.2/bits/ostream.tcc /usr/include/c++/4.8.2/istream \
  /usr/include/c++/4.8.2/bits/istream.tcc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/phool.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/phool.h \
  /usr/include/c++/4.8.2/cmath /usr/include/math.h \
  /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
  /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
@@ -138,12 +138,12 @@ PHG4CylinderGeom_Spacalv3.lo: PHG4CylinderGeom_Spacalv3.cc \
  /usr/include/c++/4.8.2/array /usr/include/c++/4.8.2/stdexcept \
  /usr/include/c++/4.8.2/bits/uses_allocator.h \
  /usr/include/c++/4.8.2/bits/stl_multimap.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phparameter/PHParameters.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phparameter/PHParameters.h \
  /usr/include/c++/4.8.2/cstddef \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PhysicalConstants.hh \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/PhysicalConstants.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/defs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/SystemOfUnits.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/PhysicalConstants.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/defs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/SystemOfUnits.h \
  /usr/include/c++/4.8.2/algorithm /usr/include/c++/4.8.2/bits/stl_algo.h \
  /usr/include/c++/4.8.2/bits/algorithmfwd.h \
  /usr/include/c++/4.8.2/bits/stl_heap.h \
@@ -179,7 +179,7 @@ PHG4CylinderGeomv1.h:
 
 PHG4CylinderGeom.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h:
 
@@ -505,7 +505,7 @@ PHG4CylinderGeom.h:
 
 /usr/include/c++/4.8.2/bits/istream.tcc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/phool.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/phool.h:
 
 /usr/include/c++/4.8.2/cmath:
 
@@ -547,17 +547,17 @@ PHG4CylinderGeom.h:
 
 /usr/include/c++/4.8.2/bits/stl_multimap.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phparameter/PHParameters.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phparameter/PHParameters.h:
 
 /usr/include/c++/4.8.2/cstddef:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PhysicalConstants.hh:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/PhysicalConstants.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/PhysicalConstants.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/defs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/defs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/SystemOfUnits.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/SystemOfUnits.h:
 
 /usr/include/c++/4.8.2/algorithm:
 

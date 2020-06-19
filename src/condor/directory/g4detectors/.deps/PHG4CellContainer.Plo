@@ -8,7 +8,7 @@ PHG4CellContainer.lo: PHG4CellContainer.cc /usr/include/stdc-predef.h \
  /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/cpu_defines.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/RConfigure.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/Rtypes.h \
@@ -130,7 +130,7 @@ PHG4CellContainer.lo: PHG4CellContainer.cc /usr/include/stdc-predef.h \
  /usr/include/c++/4.8.2/array /usr/include/c++/4.8.2/stdexcept \
  /usr/include/c++/4.8.2/bits/uses_allocator.h \
  /usr/include/c++/4.8.2/bits/stl_multimap.h PHG4Cell.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4HitDefs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4HitDefs.h \
  /usr/include/c++/4.8.2/cmath /usr/include/math.h \
  /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
  /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
@@ -174,7 +174,7 @@ PHG4CellDefs.h:
 
 /usr/include/bits/wchar.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h:
 
@@ -498,7 +498,7 @@ PHG4CellDefs.h:
 
 PHG4Cell.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4HitDefs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4HitDefs.h:
 
 /usr/include/c++/4.8.2/cmath:
 

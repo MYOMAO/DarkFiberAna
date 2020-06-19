@@ -220,10 +220,10 @@ PHG4CylinderGeom_Spacalv2_Dict.lo: PHG4CylinderGeom_Spacalv2_Dict.cc \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TDataMember.h \
  PHG4CylinderGeom_Spacalv2.h PHG4CylinderGeom_Spacalv1.h \
  PHG4CylinderGeomv2.h PHG4CylinderGeomv1.h PHG4CylinderGeom.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h \
  /usr/include/c++/4.8.2/iostream \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/phool.h
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/phool.h
 
 /usr/include/stdc-predef.h:
 
@@ -787,10 +787,10 @@ PHG4CylinderGeomv1.h:
 
 PHG4CylinderGeom.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h:
 
 /usr/include/c++/4.8.2/iostream:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/phool.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/phool.h:

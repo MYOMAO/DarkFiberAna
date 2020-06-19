@@ -107,9 +107,9 @@ PHG4SectorDetector.lo: PHG4SectorDetector.cc /usr/include/stdc-predef.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4String.icc \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4Types.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PhysicalConstants.hh \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/PhysicalConstants.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/defs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/SystemOfUnits.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/PhysicalConstants.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/defs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/SystemOfUnits.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4SystemOfUnits.hh \
  /usr/include/c++/4.8.2/map /usr/include/c++/4.8.2/bits/stl_tree.h \
  /usr/include/c++/4.8.2/bits/alloc_traits.h \
@@ -127,7 +127,7 @@ PHG4SectorDetector.lo: PHG4SectorDetector.cc /usr/include/stdc-predef.h \
  /usr/include/c++/4.8.2/bits/stl_vector.h \
  /usr/include/c++/4.8.2/bits/stl_bvector.h \
  /usr/include/c++/4.8.2/bits/vector.tcc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4Detector.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4Detector.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4RotationMatrix.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/globals.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4ios.hh \
@@ -159,30 +159,30 @@ PHG4SectorDetector.lo: PHG4SectorDetector.cc /usr/include/stdc-predef.h \
  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4ExceptionSeverity.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4ThreeVector.hh \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ThreeVector.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/defs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ThreeVector.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/Rotation.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationInterfaces.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/LorentzVector.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/LorentzVector.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ZMxpv.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/AxisAngle.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/AxisAngle.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationInterfaces.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationX.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationX.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationY.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationY.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationZ.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationZ.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/Rotation.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ThreeVector.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/defs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ThreeVector.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/Rotation.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationInterfaces.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/LorentzVector.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/LorentzVector.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ZMxpv.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/AxisAngle.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/AxisAngle.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationInterfaces.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationX.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationX.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationY.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationY.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationZ.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationZ.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/Rotation.icc \
  PHG4SectorDisplayAction.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4DisplayAction.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4Subsystem.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/Fun4AllReturnCodes.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/SubsysReco.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/Fun4AllBase.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4DisplayAction.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4Subsystem.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/Fun4AllReturnCodes.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/SubsysReco.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/Fun4AllBase.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PVPlacement.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4VPhysicalVolume.hh \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/geomdefs.hh \
@@ -196,13 +196,13 @@ PHG4SectorDetector.lo: PHG4SectorDetector.cc /usr/include/stdc-predef.h \
  /usr/include/getopt.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4VPhysicalVolume.icc \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4Transform3D.hh \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Transform3D.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/defs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Transform3D.icc \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Point3D.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/BasicVector3D.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Vector3D.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Normal3D.h
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Transform3D.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/defs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Transform3D.icc \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Point3D.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/BasicVector3D.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Vector3D.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Normal3D.h
 
 /usr/include/stdc-predef.h:
 
@@ -504,11 +504,11 @@ PHG4SectorConstructor.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PhysicalConstants.hh:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/PhysicalConstants.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/PhysicalConstants.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/defs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/defs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Units/SystemOfUnits.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Units/SystemOfUnits.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4SystemOfUnits.hh:
 
@@ -554,7 +554,7 @@ PHG4SectorConstructor.h:
 
 /usr/include/c++/4.8.2/bits/vector.tcc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4Detector.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4Detector.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4RotationMatrix.hh:
 
@@ -634,53 +634,53 @@ PHG4SectorConstructor.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4ThreeVector.hh:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ThreeVector.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ThreeVector.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/defs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/defs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ThreeVector.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ThreeVector.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/Rotation.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/Rotation.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationInterfaces.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationInterfaces.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/LorentzVector.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/LorentzVector.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/LorentzVector.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/LorentzVector.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/ZMxpv.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/ZMxpv.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/AxisAngle.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/AxisAngle.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/AxisAngle.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/AxisAngle.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationInterfaces.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationInterfaces.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationX.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationX.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationX.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationX.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationY.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationY.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationY.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationY.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationZ.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationZ.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/RotationZ.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/RotationZ.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Vector/Rotation.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Vector/Rotation.icc:
 
 PHG4SectorDisplayAction.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4DisplayAction.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4DisplayAction.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4Subsystem.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4Subsystem.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/Fun4AllReturnCodes.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/Fun4AllReturnCodes.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/SubsysReco.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/SubsysReco.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/fun4all/Fun4AllBase.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/fun4all/Fun4AllBase.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4PVPlacement.hh:
 
@@ -712,16 +712,16 @@ PHG4SectorDisplayAction.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/geant4.10.02.p02/include/Geant4/G4Transform3D.hh:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Transform3D.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Transform3D.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/defs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/defs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Transform3D.icc:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Transform3D.icc:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Point3D.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Point3D.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/BasicVector3D.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/BasicVector3D.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Vector3D.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Vector3D.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/CLHEP/Geometry/Normal3D.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/CLHEP/Geometry/Normal3D.h:

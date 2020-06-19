@@ -1,7 +1,7 @@
 PHG4CylinderCellContainer.lo: PHG4CylinderCellContainer.cc \
  /usr/include/stdc-predef.h PHG4CylinderCellContainer.h \
  PHG4CylinderCellDefs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/RConfigure.h \
  /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/Rtypes.h \
@@ -134,7 +134,7 @@ PHG4CylinderCellContainer.lo: PHG4CylinderCellContainer.cc \
  /usr/include/c++/4.8.2/bits/stl_set.h \
  /usr/include/c++/4.8.2/bits/stl_multiset.h PHG4CylinderCell.h PHG4Cell.h \
  PHG4CellDefs.h \
- /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4HitDefs.h \
+ /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4HitDefs.h \
  /usr/include/c++/4.8.2/cmath /usr/include/math.h \
  /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
  /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
@@ -154,7 +154,7 @@ PHG4CylinderCellContainer.h:
 
 PHG4CylinderCellDefs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/phool/PHObject.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/phool/PHObject.h:
 
 /cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/opt/sphenix/core/root-6.16.00/include/TObject.h:
 
@@ -512,7 +512,7 @@ PHG4Cell.h:
 
 PHG4CellDefs.h:
 
-/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/include/g4main/PHG4HitDefs.h:
+/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/include/g4main/PHG4HitDefs.h:
 
 /usr/include/c++/4.8.2/cmath:
 

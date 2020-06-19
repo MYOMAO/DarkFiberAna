@@ -17,7 +17,7 @@ old_library=''
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/gpfs/mnt/gpfs02/sphenix/user/zshi/SimulationWork/2019sPHENIXAna/EMCAL/Simulations/TutorialTest/tutorials/AnaTutorial/src/condor/directory/install/lib -L/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.2/lib -lphool -lphparameter'
+dependency_libs=' -L/gpfs/mnt/gpfs02/sphenix/user/zshi/testAdin/EMCALDarkFiberAna/src/condor/directory/install/lib -L/cvmfs/sphenix.sdcc.bnl.gov/x8664_sl7/release/release_new/new.3/lib -lphool -lphparameter'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/gpfs/mnt/gpfs02/sphenix/user/zshi/SimulationWork/2019sPHENIXAna/EMCAL/Simulations/TutorialTest/tutorials/AnaTutorial/src/condor/directory/install/lib'
+libdir='/gpfs/mnt/gpfs02/sphenix/user/zshi/testAdin/EMCALDarkFiberAna/src/condor/directory/install/lib'
